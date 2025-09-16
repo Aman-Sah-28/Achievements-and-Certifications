@@ -28,16 +28,27 @@ They are organized into folders for easy access.
 
 
 🌍 Global Certifications  
-- [Global Certifications](Global%20Certifications/)  
+- [Global Certifications](Global%20Certifications/)
+  
 
-📜 Proficiency Certificates  
-- [Proficiency Certificate](Proficiency%20Certificate/)  
+📜 Proficiency Certificate  
+- [Proficiency Certificate (DOCX)](Proficiency%20Certificate/DC2022BCA0025.docx)  
+- [Proficiency Certificate (PDF)](Proficiency%20Certificate/DC2022BCA0025.pdf)  
+- [Proficiency Certificate – Additional (DOCX)](Proficiency%20Certificate/DC2022BCA0025_Certificates.docx)  
+
 
 🤝 Service Learning  
-- [Service Learning](Service%20Learning/)  
+- [Service Learning 1](Service%20Learning/Service%20Learning%201.jpg)  
+- [Service Learning 2](Service%20Learning/Service%20Learning%202.jpg)  
 
-🏫 Training Programmes  
-- [Training Programmes Certifications](Training%20Programmes%20Certifications/)  
+
+🏫 Training Programmes Certifications  
+- [Cyber Security](Training%20Programmes%20Certifications/Cyber%20Security.jpg)  
+- [DSA](Training%20Programmes%20Certifications/DSA.jpg)  
+- [IOT](Training%20Programmes%20Certifications/IOT.jpg)  
+- [NIELIT](Training%20Programmes%20Certifications/NIELIT.jpg)  
+- [Robotic Process Automation](Training%20Programmes%20Certifications/Robotic%20Process%20Automation.jpg)  
+
 
 📰 Innovative Project News  
 - [Innovative Project News (PDF)](Innovative%20Project%20News.pdf)  
