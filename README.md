@@ -11,7 +11,7 @@ They are organized into folders for easy access.
 - [Awards](Awards/)  
 
 💻 Bootcamps  
-- ![Cyber Security Certificate](Bootcamps/cyber%20security.jpg) 
+- [Cyber Security Certificate](Bootcamps/cyber%20security.jpg) 
 
 📖 Constitution of India  
 - [Constitution of India](Constitution%20of%20India/)  
