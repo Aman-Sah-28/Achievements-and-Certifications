@@ -8,13 +8,24 @@ They are organized into folders for easy access.
 📂 Repository Structure  
 
 🏆 Awards  
-- [Awards](Awards/)  
+- [AEC Most Innovative Project](Awards/AEC%20Most%20Innovative%20Project.jpg)  
+- [NER Tech Hackathon](Awards/NER%20Tech%20Hackathon.jpg)  
+- [RBI Quiz](Awards/RBI%20Quiz.jpg)  
+- [Tug of War](Awards/Tug%20of%20War.jpg)  
+ 
 
 💻 Bootcamps  
-- [Cyber Security Certificate](Bootcamps/cyber%20security.jpg) 
+- [Cyber Security Certificate](Bootcamps/cyber%20security.jpg)
+  
 
 📖 Constitution of India  
-- [Constitution of India](Constitution%20of%20India/)  
+- [Certificate CoI - 2](Constitution%20of%20India/Certificate_-_CoI_-_2.pdf)  
+- [Certificate CoI - 3](Constitution%20of%20India/Certificate_-_CoI_-_3.pdf)  
+- [Certificate CoI - 4](Constitution%20of%20India/Certificate_-_CoI_-_4.pdf)  
+- [Spring 2023 CoI - 1](Constitution%20of%20India/CoI%20-%20Spring%202023_Certificate%20-%20CoI%20-%201.pdf)  
+- [Spring 2023 CoI - 5](Constitution%20of%20India/CoI%20-%20Spring%202023_Certificate%20-%20CoI%20-%205.pdf)  
+- [Spring 2023 Final Certificate](Constitution%20of%20India/CoI%20-%20Spring%202023_Final%20Certificate%20Col.pdf)  
+
 
 🌍 Global Certifications  
 - [Global Certifications](Global%20Certifications/)  
